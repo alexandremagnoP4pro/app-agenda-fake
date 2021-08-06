@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "build": "babel src --extensions \".js\" --out-dir dist --copy-files",
-    "dev": "json-server --watch db.json nodemon src/server.js"
+    "dev": "json-server --watch db.json nodemon src/server.js",
+    "start": "json-server --watch db.json node dist/server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

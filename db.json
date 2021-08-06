@@ -1,0 +1,37 @@
+{
+  "agendas": [
+    {
+      "id": 1,
+      "agenda": "599 lixos {quebra de seções.}. (Quebras)",
+      "cod_produto": 166650,
+      "qtd_pedida": 20000000,
+      "filial": "São Luiz - oliveira Paiva",
+      "codigoFilial": "27",
+      "cliente": "27",
+      "idsParaUpdate": "442",
+      "status": 0
+    },
+    {
+      "id": 2,
+      "agenda": "599 lixos {quebra de seções.}. (Quebras)",
+      "cod_produto": 166650,
+      "qtd_pedida": 20000000,
+      "filial": "São Luiz - oliveira Paiva",
+      "codigoFilial": "27",
+      "cliente": "27",
+      "idsParaUpdate": "442",
+      "status": 0
+    },
+    {
+      "agenda": "599 lixos {quebra de seções.}. (Quebras)",
+      "cod_produto": 166650,
+      "qtd_pedida": 20000000,
+      "filial": "São Luiz - oliveira Paiva",
+      "codigoFilial": "27",
+      "cliente": "27",
+      "idsParaUpdate": "442",
+      "status": 0,
+      "id": 3
+    }
+  ]
+}
